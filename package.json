@@ -1,5 +1,5 @@
 {
-  "name": "node-canvas-base64",
+  "name": "canvas-base64",
   "version": "1.0.0",
   "description": "base64 image methods for node-canvas",
   "main": "index.js",
