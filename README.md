@@ -12,10 +12,10 @@ npm install canvas-base64
 
 ``` js
 
-		var canvasBase64 = require('canvas-base64')
+var canvasBase64 = require('canvas-base64')
 
-		var imageData = canvasBase64.toImageDataFromBase64('<base64string>')
-		var base64 = canvasBase64.toBase64FromImageData('<imageData>')
+var imageData = canvasBase64.toImageDataFromBase64('<base64string>')
+var base64 = canvasBase64.toBase64FromImageData('<imageData>')
 
 ```
 
