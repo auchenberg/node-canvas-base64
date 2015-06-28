@@ -1,0 +1,18 @@
+{
+  "name": "node-canvas-base64",
+  "version": "1.0.0",
+  "description": "base64 image methods for node-canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "author": "Kenneth Auchenberg",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "unexpected": "^8.5.0"
+  }
+}
